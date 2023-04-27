@@ -4,7 +4,7 @@
 
 I am an undergraduate Senior student at the University of California San Diego majoring in Mathematics-Computer Science.
 
-![Bingyang's image](https://github.com/8YBY8sd/CSE110Lab1/blob/main/Screenshot%202023-04-26%20212144.png)
+![Bingyang's image](https://github.com/8YBY8sd/CSE110Lab1/blob/main/Bingyang_Image.png?raw=true)
 
 > Stay Positive! - Suitmate Angel
 
