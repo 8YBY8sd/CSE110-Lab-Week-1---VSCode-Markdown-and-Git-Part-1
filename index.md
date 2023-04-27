@@ -1,20 +1,24 @@
 # CSE 110 Lab 1
 
-## Who I Am ##
-**Bingyang Yu' User Page** 
+## Bingyang Yu' User Page ##
 
-I am a undergraduate Senior student at University of California San Diego majoring in Mathematics - Computer Science. 
-![Bingyang Yu's picture](https://today.ucsd.edu/news_uploads/img-primary-Geisel-UCSanDiego-ErikJepsen-090922.jpg)
+I am an undergraduate Senior student at the University of California San Diego majoring in Mathematics-Computer Science.![Bingyang Yu's picture](https://today.ucsd.edu/news_uploads/img-primary-Geisel-UCSanDiego-ErikJepsen-090922.jpg)
 
-### What I like ##
+> Stay Positive! - Suitmate Angel
+
+[LinkedIn](https://www.linkedin.com/in/bingyang-yu-277943195/)
+
+### What I like Do During My Free Time##
 + Swimming
 + Traveling
 + Playing Badminton
++ Watching anime
 
 ### Computer Language ###
-My favoriate computer language is Java because it's my first computer language I have leaned. 
+My favorite computer language is Java because it's the first computer language I have leaned.
 
-Here is my first what I wrote in the first time I learned in Java:
+Here is what I wrote in the first time I learned in Java:
+
 `class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
@@ -22,9 +26,7 @@ Here is my first what I wrote in the first time I learned in Java:
 }`
 
 
-
-
-### CSE course I have take at UCSD ###
+### CSE course I have taken at UCSD ###
 - [X] CSE 11
 - [X] CSE 12
 - [X] CSE 15L
@@ -34,4 +36,12 @@ Here is my first what I wrote in the first time I learned in Java:
 - [X] CSE 105
 - [ ] CSE 110
 
-[CSE 110 Lab 1 in Github](https://github.com/8YBY8sd/CSE110Lab1)
+
+### My Goal in the Next 5 Years ###
+1. Get an internship
+2. Dual degree with MSCS at UMich
+3. Purse Ph.D. in Computer Science or Financial Mathematics
+
+[README.md](https://github.com/8YBY8sd/CSE110Lab1/blob/main/README.md)
+
+[Back to top](https://github.com/8YBY8sd/CSE110Lab1/blob/main/index.md#who-i-am)
