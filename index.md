@@ -2,7 +2,9 @@
 
 ## Bingyang Yu' User Page ##
 
-I am an undergraduate Senior student at the University of California San Diego majoring in Mathematics-Computer Science.![Bingyang Yu's picture](https://today.ucsd.edu/news_uploads/img-primary-Geisel-UCSanDiego-ErikJepsen-090922.jpg)
+I am an undergraduate Senior student at the University of California San Diego majoring in Mathematics-Computer Science.
+
+![Bingyang's image](https://github.com/8YBY8sd/CSE110Lab1/blob/main/Screenshot%202023-04-26%20212144.png)
 
 > Stay Positive! - Suitmate Angel
 
@@ -19,9 +21,12 @@ My favorite computer language is Java because it's the first computer language I
 
 Here is what I wrote in the first time I learned in Java:
 
-`class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
+`
+class HelloWorld {
+    public static void main
+    (String[] args) {
+        System.out.println
+        ("Hello, World!"); 
     }
 }`
 
@@ -44,4 +49,4 @@ Here is what I wrote in the first time I learned in Java:
 
 [README.md](https://github.com/8YBY8sd/CSE110Lab1/blob/main/README.md)
 
-[Back to top](https://github.com/8YBY8sd/CSE110Lab1/blob/main/index.md#who-i-am)
+[Back to top](https://8yby8sd.github.io/CSE110Lab1/#bingyang-yu-user-page)
